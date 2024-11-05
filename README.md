@@ -6,6 +6,6 @@ hi# LITA_CAPSTONE-SALES-DATA-SQL
 This project aims at giving insights on the sales performance of a company over the past months using SQL query to generate insights and tell a compelling stories about the query or data generated.
 
 ### Data source
-The data source used is Sales_data.csv file [Download Here]([LITA Capstone Dataset.xlsx](https://github.com/user-attachments/files/17631478/LITA.Capstone.Dataset.xlsx)
-)
+The data source used is Sales_data.csv file
+
 
